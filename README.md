@@ -50,6 +50,6 @@ fun () {
 - [Specify API level](https://github.com/nimisaya/android-previews/blob/a67b66d2e1e0895fa9da035ee85ad86e9a3cef33/app/src/main/java/com/kotlindojo/learningpreviews/ui/previews/BasicPreviews.kt#L62-L85)
 - [Check out how it looks on different devices](https://github.com/nimisaya/android-previews/blob/main/app/src/main/java/com/kotlindojo/learningpreviews/ui/previews/DevicePreviews.kt)
 - [Stack previews](https://github.com/nimisaya/android-previews/blob/a67b66d2e1e0895fa9da035ee85ad86e9a3cef33/app/src/main/java/com/kotlindojo/learningpreviews/ui/previews/MultiplePreviews.kt#L15-L27)
-- [Multipreview annotation](https://github.com/nimisaya/android-previews/blob/a67b66d2e1e0895fa9da035ee85ad86e9a3cef33/app/src/main/java/com/kotlindojo/learningpreviews/ui/previews/MultiplePreviews.kt#L29-L70)
+- [Multipreview annotation - includes using two languages](https://github.com/nimisaya/android-previews/blob/a67b66d2e1e0895fa9da035ee85ad86e9a3cef33/app/src/main/java/com/kotlindojo/learningpreviews/ui/previews/MultiplePreviews.kt#L29-L70)
 - [Combining Multipreviews](https://github.com/nimisaya/android-previews/blob/a67b66d2e1e0895fa9da035ee85ad86e9a3cef33/app/src/main/java/com/kotlindojo/learningpreviews/ui/previews/MultiplePreviews.kt#L72-L114)
 - [Using Preview Parameters](https://github.com/nimisaya/android-previews/blob/main/app/src/main/java/com/kotlindojo/learningpreviews/ui/previews/SampleDataPreviews.kt)
